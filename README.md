@@ -65,6 +65,9 @@ Check my **pinned repositories** 👇
 ![GitHub Stats](https://gitmystat.vercel.app/api?username=SwarajD69)
 
 
+![Swaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwarajD69&show_icons=true&theme=tokyonight&hide_border=true)
+
+
 ---
 
 ## 📫 Connect With Me
