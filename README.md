@@ -1,69 +1,72 @@
 # Hi 👋 I'm Swaraj Dhage
 
-🚀 DevOps Engineer (Fresher) with **7 months of DevOps internship experience (2023)** and hands-on skills in cloud infrastructure, CI/CD pipelines, automation, and Linux administration.
+🚀 **DevOps Engineer (Fresher)** | With internship experience in **AWS Cloud, CI/CD, automation, and Linux administration**.  
 
-Currently seeking **entry-level / junior DevOps opportunities** where I can apply my skills and grow in a real production environment.
+Currently seeking **entry-level / junior DevOps opportunities** to apply skills in **real-world production environments**.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack & Tools
 
-### 🔹 DevOps & Cloud
-- AWS: EC2, S3, IAM, VPC, Auto Scaling
-- CI/CD: Jenkins, GitHub Actions
-- Infrastructure as Code: Terraform (Basics)
-- Configuration Management: Ansible
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
-### 🔹 Containers & Orchestration
-- Docker
-- Kubernetes (Basics)
+### Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### 🔹 Programming & Scripting
-- Python (Basics, Boto3)
-- Bash / Shell Scripting
+### Scripting & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### 🔹 Web, OS & Databases
-- Linux (Ubuntu, Amazon Linux)
-- Nginx, Apache
-- MySQL, MongoDB
-- Git & GitHub
+### Web & Databases
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-FC6D26?style=flat&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ## 💼 Internship Experience
 
-### 🔹 DevOps Intern — *FEB-2023 To SEP 2023*
-**Responsibilities & Work:**
-- Created CI/CD pipelines using Jenkins and GitHub
-- Automated application deployments
-- Provisioned AWS infrastructure (EC2, S3, IAM, VPC)
-- Containerized applications using Docker
-- Managed Linux servers and basic monitoring
+### DevOps Intern — **Feb 2023 to Sep 2023**
+**smartData Enterprises, Nagpur**  
+
+- Built **CI/CD pipelines** using Jenkins and GitHub Actions  
+- Automated deployments to AWS (EC2, S3, IAM, VPC)  
+- Containerized applications using Docker  
+- Managed Linux servers & basic monitoring  
+- Learned real-world DevOps best practices  
 
 ---
 
-## 📌 What I Do
-- Build and maintain CI/CD pipelines
-- Automate infrastructure using Terraform and Ansible
-- Manage cloud resources on AWS
-- Containerize and deploy applications
-- Improve deployment speed and reliability
+## 📂 Featured Projects
+
+Check my **pinned repositories** 👇  
+
+- **CI/CD Pipelines** – Automated build, test, and deployment pipelines  
+- **AWS Deployment Projects** – EC2, S3, CloudFront, IAM configuration  
+- **Containerization Projects** – Dockerized applications for scalable deployments  
+
+⭐ Each project demonstrates **automation, cloud infrastructure, and DevOps practices**  
 
 ---
 
-## 📂 Featured DevOps Projects
-📌 Check my pinned repositories 👇  
-Each project demonstrates:
-- Real-world DevOps use cases
-- CI/CD implementation
-- Cloud & container-based deployments
-- Automation best practices
+## 📊 GitHub Stats
+
+![Swaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwarajD69&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajD69&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/SwarajD69
-- LinkedIn: www.linkedin.com/in/swarajd69
-- Email : dhageswaraj1000@gmail.com
 
-⭐ Actively seeking DevOps fresher / junior roles | Always learning & improving
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarajd69)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhageswaraj1000@gmail.com)  
+
+⭐ Actively seeking **DevOps fresher / junior roles** | Always learning & improving
